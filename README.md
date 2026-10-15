@@ -1,5 +1,11 @@
 # Qt 计算器
 
+<p align="center">
+  <img src="docs/images/calculator-icon.png" width="64" alt="Qt 计算器原程序图标">
+</p>
+
+<p align="center"><sub>原程序图标（从 Windows 资源文件 <code>bitbug_favicon.ico</code> 导出），不是界面预览或运行截图。仓库未提供运行界面截图；本次环境没有 Qt，未构建或运行应用。</sub></p>
+
 > 基于 Qt Widgets 的桌面计算器，提供基础四则运算、括号和小数输入。
 
 ## 功能
